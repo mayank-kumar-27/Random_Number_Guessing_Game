@@ -11,10 +11,6 @@
 
 This is a simple command-line number guessing game written in C. The program generates a random number between 1 and 100, and the player tries to guess it. After each guess, the program provides feedback whether the guess was too high or too low, until the player guesses the correct number.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/username/random-number-game/main/screenshot.png" alt="Game Screenshot" width="70%">
-</div>
-
 ## 🎮 How to Play
 
 1. The program generates a random number between 1 and 100
